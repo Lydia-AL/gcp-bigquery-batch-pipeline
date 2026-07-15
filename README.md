@@ -76,9 +76,6 @@ gcp-bigquery-batch-pipeline/
 └── README.md
 ```
 
-## Statut
-
-🚧 Le code SQL utilisé dans le projet est en cours d’ajout et de documentation.
 
 ## Améliorations possibles
 
